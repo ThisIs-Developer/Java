@@ -39,3 +39,18 @@ It then computes the sum of the series based on the formula:
 1 + 1/2! + 1/3! + ... + 1/n!
 
 
+# Series Calculator
+
+This Java program computes the sum of a series given by x - x/2! + x/3! - x/4! ... +- x/n.
+
+## Description
+
+The program prompts the user to input two integers:
+- `n`: The number of terms in the series.
+- `x`: The value used in calculations.
+
+It then calculates the sum of the series using the provided formula:
+x - x/2! + x/3! - x/4! ... +- x/n
+
+The series alternates between addition and subtraction based on the position of the term (even or odd).
+
