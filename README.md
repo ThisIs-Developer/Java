@@ -1,9 +1,12 @@
 # Java [<img alt="Java Logo" width="30" src="assets/java-logo-2.png">](https://www.java.com/en/) <img align="right" alt="Java Logo" width="400" src="assets/Java-Logo.png">
 
-
-
-
 Welcome to the Java Programming Repository! This repository contains code examples and explanations for various fundamental and advanced Java programming concepts. Whether you're new to Java or looking to deepen your understanding, you'll find valuable resources here.
+
+## History of Java
+
+Java, developed by **James Gosling** at **Sun Microsystems** and **released in 1995**, aimed to create a programming language for consumer electronics. **Originally named Oak**, it later became **Java**. The language's key feature was its ability to run on multiple platforms without recompilation, summarized by the slogan **"Write Once, Run Anywhere" (WORA)**. Over time, Java evolved under **Oracle Corporation's** guidance, becoming a widely used language across diverse domains.
+
+---
 
 ## Table of Contents
 
