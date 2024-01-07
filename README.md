@@ -1,4 +1,4 @@
-# Java Programming <img alt="Java Logo" width="30" src="assets/java-logo-2.png"> <img align="right" alt="Java Logo" width="400" src="assets/Java-Logo.png">
+# Java Programming <img alt="Java Logo" width="40" height="40px src="assets/java-logo-2.png"> <img align="right" alt="Java Logo" width="400" src="assets/Java-Logo.png">
 
 
 
