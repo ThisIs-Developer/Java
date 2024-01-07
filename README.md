@@ -2,13 +2,13 @@
 
 Welcome to the Java Programming Repository! This repository contains code examples and explanations for various fundamental and advanced Java programming concepts. Whether you're new to Java or looking to deepen your understanding, you'll find valuable resources here.
 
-## History of Java
+## 📜 History of Java
 
 Java, developed by **James Gosling** at **Sun Microsystems** and **released in 1995**, aimed to create a programming language for consumer electronics. **Originally named Oak**, it later became **Java**. The language's key feature was its ability to run on multiple platforms without recompilation, summarized by the slogan **"Write Once, Run Anywhere" (WORA)**. Over time, Java evolved under **Oracle Corporation's** guidance, becoming a widely used language across diverse domains.
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
 - [Applet](https://github.com/ThisIs-Developer/Java/tree/main/Applet)
 - [Array](https://github.com/ThisIs-Developer/Java/tree/main/Array)
@@ -26,10 +26,9 @@ Java, developed by **James Gosling** at **Sun Microsystems** and **released in 1
 - [Thread](https://github.com/ThisIs-Developer/Java/tree/main/Thread)
 - [Throws](https://github.com/ThisIs-Developer/Java/tree/main/Throws)
 
-
 ---
 
-## Installation Guide for JDK
+## 💻 Installation Guide for JDK
 
 To start coding in Java, you'll need to install the Java Development Kit (JDK). You can follow these steps to install JDK:
 
@@ -37,7 +36,7 @@ To start coding in Java, you'll need to install the Java Development Kit (JDK). 
 - Download the appropriate JDK version for your operating system.
 - Follow the installation instructions provided on the Oracle website for your specific OS.
 
-## Checking Installed JDK Version
+## 🛠️ Checking Installed JDK Version
 
 To check the installed JDK version, open a command prompt (Windows) or terminal (macOS, Linux) and enter the following command:
 
@@ -45,7 +44,7 @@ To check the installed JDK version, open a command prompt (Windows) or terminal 
 java -version
 ```
 
-## IDE Installation Links
+## 🖥️ IDE Installation Links
 
 Here are installation links for popular Java Integrated Development Environments (IDEs):
 
@@ -56,11 +55,11 @@ Here are installation links for popular Java Integrated Development Environments
 
 Choose an IDE that suits your preferences and install it to start coding in Java.
 
-## Contributions
+## 🌟 Contributions
 
 Contributions, suggestions, and improvements to this repository are highly encouraged and appreciated! If you have any ideas, bug fixes, or additional content to add, feel free to open an issue or pull request.
 
-## License
+## 📄 License
 
 This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this code for both commercial and non-commercial purposes. See the [LICENSE](LICENSE) file for more details.
 
