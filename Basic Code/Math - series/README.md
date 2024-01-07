@@ -54,3 +54,17 @@ x - x/2! + x/3! - x/4! ... +- x/n
 
 The series alternates between addition and subtraction based on the position of the term (even or odd).
 
+
+# Series Sum Calculation
+
+This Java program calculates the sum of a series given by 1 - 1/2! + 1/3! - 1/4! ... +- 1/n!.
+
+## Description
+
+The program prompts the user to input an integer:
+- `n`: The number of terms in the series.
+
+It computes the sum of the series using the formula:
+1 - 1/2! + 1/3! - 1/4! ... +- 1/n!
+
+The series alternates between addition and subtraction based on the position of the term (even or odd).
