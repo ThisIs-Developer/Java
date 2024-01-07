@@ -1,9 +1,9 @@
-# Java Programming [<img alt="Java Logo" width="30" src="assets/java-logo-2.png">](https://www.java.com/en/) <img align="right" alt="Java Logo" width="400" src="assets/Java-Logo.png">
+# Java [<img alt="Java Logo" width="30" src="assets/java-logo-2.png">](https://www.java.com/en/) <img align="right" alt="Java Logo" width="400" src="assets/Java-Logo.png">
 
 
 
 
-Welcome to the Java Programming Concepts Repository! This repository contains code examples and explanations for various fundamental and advanced Java programming concepts. Whether you're new to Java or looking to deepen your understanding, you'll find valuable resources here.
+Welcome to the Java Programming Repository! This repository contains code examples and explanations for various fundamental and advanced Java programming concepts. Whether you're new to Java or looking to deepen your understanding, you'll find valuable resources here.
 
 ## Table of Contents
 
