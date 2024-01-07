@@ -37,6 +37,14 @@ To start coding in Java, you'll need to install the Java Development Kit (JDK). 
 - Download the appropriate JDK version for your operating system.
 - Follow the installation instructions provided on the Oracle website for your specific OS.
 
+## Checking Installed JDK Version
+
+To check the installed JDK version, open a command prompt (Windows) or terminal (macOS, Linux) and enter the following command:
+
+```bash
+java -version
+```
+
 ## IDE Installation Links
 
 Here are installation links for popular Java Integrated Development Environments (IDEs):
