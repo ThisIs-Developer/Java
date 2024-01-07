@@ -26,3 +26,16 @@ The program prompts the user to input two integers:
 It then computes the combination using the provided formula:
 n! / ((n-r)! * r!)
 
+# Positive Series Sum Calculation
+
+This Java program calculates the sum of a series given by 1 + 1/2! + 1/3! + ... + 1/n!.
+
+## Description
+
+The program prompts the user to input an integer:
+- `n`: The number of terms in the series.
+
+It then computes the sum of the series based on the formula:
+1 + 1/2! + 1/3! + ... + 1/n!
+
+
