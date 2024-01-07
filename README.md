@@ -1,4 +1,5 @@
-# Java Programming Concepts Repository
+# Java Programming ![Java Logo](assets/Java-Logo.png){:height="200px" width="200px"}
+
 
 Welcome to the Java Programming Concepts Repository! This repository contains code examples and explanations for various fundamental and advanced Java programming concepts. Whether you're new to Java or looking to deepen your understanding, you'll find valuable resources here.
 
