@@ -1,6 +1,6 @@
 # Math Series Calculations in Java
 
-## [Alternate Factorial Series Calculation](https://github.com/ThisIs-Developer/Java/blob/main/Basic%20Code/Math%20-%20series/AlternateFactorialSeries.java)
+## Alternate Factorial Series Calculation[- View Code](https://github.com/ThisIs-Developer/Java/blob/main/Basic%20Code/Math%20-%20series/AlternateFactorialSeries.java)
 
 This Java program computes the sum of an alternate factorial series based on the given inputs `n` and `x`.
 
