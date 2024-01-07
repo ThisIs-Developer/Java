@@ -7,21 +7,22 @@ Welcome to the Java Programming Repository! This repository contains code exampl
 
 ## Table of Contents
 
-- [Applet](#applet)
-- [Array](#array)
-- [Basic Code](#basic-code)
-- [Exception Handling](#exception-handling)
-- [Interface](#interface)
-- [Loop](#loop)
-- [Package](#package)
-- [Pattern Printing](#pattern-printing)
-- [Search](#search)
-- [Sort](#sort)
-- [Static](#static)
-- [String Manipulation](#string-manipulation)
-- [Switch Case](#switch-case)
-- [Thread](#thread)
-- [Throws](#throws)
+- [Applet](https://github.com/ThisIs-Developer/Java/tree/main/Applet)
+- [Array](https://github.com/ThisIs-Developer/Java/tree/main/Array)
+- [Basic Code](https://github.com/ThisIs-Developer/Java/tree/main/Basic%20Code)
+- [Exception Handling](https://github.com/ThisIs-Developer/Java/tree/main/Exception%20Handling)
+- [Interface](https://github.com/ThisIs-Developer/Java/tree/main/Interface)
+- [Loop](https://github.com/ThisIs-Developer/Java/tree/main/Loop)
+- [Package](https://github.com/ThisIs-Developer/Java/tree/main/Package)
+- [Pattern Printing](https://github.com/ThisIs-Developer/Java/tree/main/Pattern%20Printing)
+- [Search](https://github.com/ThisIs-Developer/Java/tree/main/Search)
+- [Sort](https://github.com/ThisIs-Developer/Java/tree/main/Sort)
+- [Static](https://github.com/ThisIs-Developer/Java/tree/main/Static)
+- [String Manipulation](https://github.com/ThisIs-Developer/Java/tree/main/String%20Manipulation)
+- [Switch case](https://github.com/ThisIs-Developer/Java/tree/main/Switch%20case)
+- [Thread](https://github.com/ThisIs-Developer/Java/tree/main/Thread)
+- [Throws](https://github.com/ThisIs-Developer/Java/tree/main/Throws)
+
 
 ---
 
